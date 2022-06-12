@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" align="right" width="400" height="250">
 
-### Hi there
+### Hi there,
 This is the place where I opensource stuff and break things 
 
 
